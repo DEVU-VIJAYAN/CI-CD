@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>
-      <h1>THE DEVOPS CLASS today</h1>
+      <h1>THE DEVOPS CLASS by NSDC</h1>
     </div>
   )
 }
